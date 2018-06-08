@@ -1,0 +1,7 @@
+.idea/
+*.java
+*.swp
+*.log
+*.pyc
+*.xlsx
+*.iml
